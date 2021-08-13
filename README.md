@@ -1,2 +1,2 @@
-# Lab-3
+# MovieLens Association Rule Mining
  
